@@ -66,7 +66,7 @@ export default function ArticlePage() {
     return (
       <div className="min-h-screen bg-white">
         <Navbar />
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
+        <div className="max-w-[95vw] md:max-w-[70vw] mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
           <p className="text-gray-600">Cargando artículo...</p>
         </div>
         <Footer />
@@ -78,7 +78,7 @@ export default function ArticlePage() {
     return (
       <div className="min-h-screen bg-white">
         <Navbar />
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
+        <div className="max-w-[95vw] md:max-w-[70vw] mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
           <h1 className="text-3xl font-bold text-black mb-4">
             Artículo no encontrado
           </h1>
@@ -120,7 +120,7 @@ export default function ArticlePage() {
         </div>
 
         {/* Title Overlay */}
-        <div className="absolute bottom-0 left-0 right-0 max-w-[70vw] mx-auto px-4 sm:px-6 lg:px-8 pb-12">
+        <div className="absolute bottom-0 left-0 right-0 max-w-[95vw] md:max-w-[70vw] mx-auto px-4 sm:px-6 lg:px-8 pb-12">
           <span className="inline-block px-3 py-1 bg-red-500 text-white rounded-full text-sm font-medium mb-4">
             {article.category}
           </span>
@@ -136,7 +136,7 @@ export default function ArticlePage() {
       </div>
 
       {/* Article Content */}
-      <article className="max-w-[60vw] mx-auto px-4 sm:px-6 lg:px-8 -mt-10 relative z-10">
+      <article className="max-w-[85vw] md:max-w-[60vw] mx-auto px-4 sm:px-6 lg:px-8 -mt-10 relative z-10">
         {/* White Content Card */}
         <div className="bg-white rounded-2xl shadow-2xl p-8 md:p-12">
           {/* Article Excerpt */}
