@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "analisis-tecnico-ultimas-carreras",
+      "image": "/imgs/article1.jpg",
+      "title": "Análisis técnico de las últimas carreras",
+      "author": "Valerie Rondón",
+      "date": "15 de octubre, 2025",
+      "category": "Técnico",
+      "excerpt": "Un recorrido detallado por las innovaciones técnicas y estrategias que marcaron la diferencia en las últimas carreras del campeonato."
+    },
+    {
+      "id": 2,
+      "slug": "estrategia-ganadora-claves-clasico",
+      "image": "/imgs/article2.jpg",
+      "title": "La estrategia ganadora: claves de un clásico",
+      "author": "Santiago Ortiz",
+      "date": "22 de octubre, 2025",
+      "category": "Estrategia",
+      "excerpt": "Descubre cómo la estrategia perfecta puede convertir una carrera ordinaria en una victoria memorable."
+    },
+    {
+      "id": 3,
+      "slug": "pilotos-destacados-campeonato",
+      "image": "/imgs/article3.jpg",
+      "title": "Los pilotos más destacados del campeonato",
+      "author": "Cristian Sandoval",
+      "date": "5 de noviembre, 2025",
+      "category": "Pilotos",
+      "excerpt": "Una mirada profunda a los pilotos que están marcando la diferencia en la temporada 2025."
+    }
+  ]
+}

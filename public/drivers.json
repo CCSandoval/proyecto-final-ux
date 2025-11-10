@@ -1,0 +1,84 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "name": "Max Verstappen",
+      "number": 1,
+      "team": "Red Bull Racing",
+      "nationality": "Países Bajos",
+      "championships": 3,
+      "image": "/imgs/drivers/verstappen.jpg",
+      "bio": "Tricampeón mundial y uno de los pilotos más dominantes de la era moderna."
+    },
+    {
+      "id": 2,
+      "name": "Lewis Hamilton",
+      "number": 44,
+      "team": "Ferrari",
+      "nationality": "Reino Unido",
+      "championships": 7,
+      "image": "/imgs/drivers/hamilton.jpeg",
+      "bio": "Heptacampeón mundial que se unió a Ferrari en 2025 para un nuevo desafío."
+    },
+    {
+      "id": 3,
+      "name": "Charles Leclerc",
+      "number": 16,
+      "team": "Ferrari",
+      "nationality": "Mónaco",
+      "championships": 0,
+      "image": "/imgs/drivers/leclerc.jpg",
+      "bio": "Estrella de Ferrari buscando su primer título mundial junto a Hamilton."
+    },
+    {
+      "id": 4,
+      "name": "Lando Norris",
+      "number": 4,
+      "team": "McLaren",
+      "nationality": "Reino Unido",
+      "championships": 0,
+      "image": "/imgs/drivers/norris.jpeg",
+      "bio": "Piloto joven y talentoso que lidera el proyecto de McLaren."
+    },
+    {
+      "id": 5,
+      "name": "Oscar Piastri",
+      "number": 81,
+      "team": "McLaren",
+      "nationality": "Australia",
+      "championships": 0,
+      "image": "/imgs/drivers/piastri.png",
+      "bio": "Prometedor piloto australiano en su tercera temporada con McLaren."
+    },
+    {
+      "id": 6,
+      "name": "George Russell",
+      "number": 63,
+      "team": "Mercedes",
+      "nationality": "Reino Unido",
+      "championships": 0,
+      "image": "/imgs/drivers/russell.jpeg",
+      "bio": "Líder del equipo Mercedes en la era post-Hamilton."
+    },
+    {
+      "id": 7,
+      "name": "Andrea Kimi Antonelli",
+      "number": 12,
+      "team": "Mercedes",
+      "nationality": "Italia",
+      "championships": 0,
+      "image": "/imgs/drivers/antonelli.webp",
+      "bio": "Joven promesa italiana que se unió a Mercedes en 2025."
+    },
+    {
+      "id": 8,
+      "name": "Fernando Alonso",
+      "number": 14,
+      "team": "Aston Martin",
+      "nationality": "España",
+      "championships": 2,
+      "image": "/imgs/drivers/alonso.jpeg",
+      "bio": "Bicampeón mundial que continúa compitiendo al más alto nivel."
+    }
+  ]
+}

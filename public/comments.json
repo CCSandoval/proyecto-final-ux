@@ -1,0 +1,80 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Carlos Martínez",
+      "avatar": "/imgs/avatars/avatar1.jpeg",
+      "timestamp": "Hace 2 horas",
+      "content": "¡Increíble carrera! La estrategia de Red Bull fue perfecta, especialmente con las paradas en boxes. ¿Qué opinan del desempeño de Verstappen?",
+      "topicId": 2
+    },
+    {
+      "id": 2,
+      "author": "Ana López",
+      "avatar": "/imgs/avatars/avatar2.jpeg",
+      "timestamp": "Hace 5 horas",
+      "content": "La batalla entre Ferrari y Mercedes fue épica. Los neumáticos medios fueron clave en el último stint.",
+      "topicId": 1
+    },
+    {
+      "id": 3,
+      "author": "María González",
+      "avatar": "/imgs/avatars/avatar3.jpeg",
+      "timestamp": "Hace 1 día",
+      "content": "El debut del nuevo piloto de McLaren superó todas las expectativas. Definitivamente un talento a seguir esta temporada.",
+      "topicId": 2
+    },
+    {
+      "id": 4,
+      "author": "Pedro Ramírez",
+      "avatar": "/imgs/avatars/avatar4.jpeg",
+      "timestamp": "Hace 2 días",
+      "content": "¿Alguien más piensa que las nuevas regulaciones técnicas están haciendo las carreras más emocionantes? El DRS está funcionando perfectamente.",
+      "topicId": 3
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "name": "Carlos Martínez",
+      "avatar": "/imgs/avatars/avatar1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Ana López",
+      "avatar": "/imgs/avatars/avatar2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "María González",
+      "avatar": "/imgs/avatars/avatar3.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Pedro Ramírez",
+      "avatar": "/imgs/avatars/avatar4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Luis Fernández",
+      "avatar": "/imgs/avatars/avatar5.jpeg"
+    }
+  ],
+  "popularTopics": [
+    {
+      "id": 1,
+      "title": "Estrategia de neumáticos",
+      "publications": 234
+    },
+    {
+      "id": 2,
+      "title": "GP de Brazil 2025",
+      "publications": 187
+    },
+    {
+      "id": 3,
+      "title": "Nuevas regulaciones",
+      "publications": 156
+    }
+  ]
+}

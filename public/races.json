@@ -1,0 +1,169 @@
+{
+  "races": [
+    {
+      "id": 1,
+      "name": "Gran Premio de Baréin",
+      "circuit": "Circuito Internacional de Baréin",
+      "country": "Baréin",
+      "date": "2 de marzo, 2025",
+      "status": "completed",
+      "winner": "Max Verstappen",
+      "image": "/imgs/races/bahrain.jpg",
+      "laps": 57
+    },
+    {
+      "id": 2,
+      "name": "Gran Premio de Arabia Saudita",
+      "circuit": "Circuito Urbano de Jeddah",
+      "country": "Arabia Saudita",
+      "date": "9 de marzo, 2025",
+      "status": "completed",
+      "winner": "Charles Leclerc",
+      "image": "/imgs/races/saudi.jpg",
+      "laps": 50
+    },
+    {
+      "id": 3,
+      "name": "Gran Premio de Australia",
+      "circuit": "Albert Park",
+      "country": "Australia",
+      "date": "23 de marzo, 2025",
+      "status": "completed",
+      "winner": "Lando Norris",
+      "image": "/imgs/races/australia.jpg",
+      "laps": 58
+    },
+    {
+      "id": 4,
+      "name": "Gran Premio de Japón",
+      "circuit": "Suzuka",
+      "country": "Japón",
+      "date": "6 de abril, 2025",
+      "status": "completed",
+      "winner": "Max Verstappen",
+      "image": "/imgs/races/japan.jpg",
+      "laps": 53
+    },
+    {
+      "id": 5,
+      "name": "Gran Premio de China",
+      "circuit": "Circuito Internacional de Shanghái",
+      "country": "China",
+      "date": "20 de abril, 2025",
+      "status": "completed",
+      "winner": "Lewis Hamilton",
+      "image": "/imgs/races/china.jpg",
+      "laps": 56
+    },
+    {
+      "id": 6,
+      "name": "Gran Premio de Miami",
+      "circuit": "Miami International Autodrome",
+      "country": "Estados Unidos",
+      "date": "4 de mayo, 2025",
+      "status": "completed",
+      "winner": "Max Verstappen",
+      "image": "/imgs/races/miami.jpg",
+      "laps": 57
+    },
+    {
+      "id": 7,
+      "name": "Gran Premio de Emilia-Romaña",
+      "circuit": "Autodromo Enzo e Dino Ferrari",
+      "country": "Italia",
+      "date": "18 de mayo, 2025",
+      "status": "completed",
+      "winner": "Charles Leclerc",
+      "image": "/imgs/races/imola.jpg",
+      "laps": 63
+    },
+    {
+      "id": 8,
+      "name": "Gran Premio de Mónaco",
+      "circuit": "Circuit de Monaco",
+      "country": "Mónaco",
+      "date": "25 de mayo, 2025",
+      "status": "completed",
+      "winner": "Charles Leclerc",
+      "image": "/imgs/races/monaco.jpg",
+      "laps": 78
+    },
+    {
+      "id": 9,
+      "name": "Gran Premio de España",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "España",
+      "date": "1 de junio, 2025",
+      "status": "upcoming",
+      "winner": null,
+      "image": "/imgs/races/spain.jpg",
+      "laps": 66
+    },
+    {
+      "id": 10,
+      "name": "Gran Premio de Canadá",
+      "circuit": "Circuit Gilles Villeneuve",
+      "country": "Canadá",
+      "date": "15 de junio, 2025",
+      "status": "upcoming",
+      "winner": null,
+      "image": "/imgs/races/canada.jpg",
+      "laps": 70
+    },
+    {
+      "id": 11,
+      "name": "Gran Premio de Austria",
+      "circuit": "Red Bull Ring",
+      "country": "Austria",
+      "date": "29 de junio, 2025",
+      "status": "upcoming",
+      "winner": null,
+      "image": "/imgs/races/austria.jpg",
+      "laps": 71
+    },
+    {
+      "id": 12,
+      "name": "Gran Premio de Gran Bretaña",
+      "circuit": "Silverstone",
+      "country": "Reino Unido",
+      "date": "6 de julio, 2025",
+      "status": "upcoming",
+      "winner": null,
+      "image": "/imgs/races/britain.jpg",
+      "laps": 52
+    },
+    {
+      "id": 13,
+      "name": "Gran Premio de Brasil",
+      "circuit": "Autódromo José Carlos Pace",
+      "country": "Brasil",
+      "date": "2 de noviembre, 2025",
+      "status": "upcoming",
+      "winner": null,
+      "image": "/imgs/races/brazil.jpg",
+      "laps": 71
+    },
+    {
+      "id": 14,
+      "name": "Gran Premio de Las Vegas",
+      "circuit": "Las Vegas Strip Circuit",
+      "country": "Estados Unidos",
+      "date": "22 de noviembre, 2025",
+      "status": "upcoming",
+      "winner": null,
+      "image": "/imgs/races/vegas.jpg",
+      "laps": 50
+    },
+    {
+      "id": 15,
+      "name": "Gran Premio de Abu Dhabi",
+      "circuit": "Yas Marina Circuit",
+      "country": "Emiratos Árabes Unidos",
+      "date": "7 de diciembre, 2025",
+      "status": "upcoming",
+      "winner": null,
+      "image": "/imgs/races/abudhabi.jpg",
+      "laps": 58
+    }
+  ]
+}
